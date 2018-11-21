@@ -1,6 +1,6 @@
 {
   "name": "promise-redis-client",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a promise style library to use redis client",
   "main": "index.js",
   "scripts": {
