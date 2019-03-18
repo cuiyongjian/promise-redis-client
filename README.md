@@ -1,4 +1,4 @@
-[![npm version](https://img.shields.io/npm/v/promise-redis-client.svg?style=flat)](https://www.npmjs.com/package/promise-redis-client) [![downloads](https://img.shields.io/npm/dt/promise-redis-client.svg)](https://www.npmjs.com/package/kitty-fetch-file)
+[![npm version](https://img.shields.io/npm/v/promise-redis-client.svg?style=flat)](https://www.npmjs.com/package/promise-redis-client) [![downloads](https://img.shields.io/npm/dt/promise-redis-client.svg)](https://www.npmjs.com/package/promise-redis-client)
 
 # promise-redis-client
 
